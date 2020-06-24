@@ -10,7 +10,8 @@
 		</p>
 
 		<p class="author__links">
-			<a href="facebook.com/groups/933140253754180/">Suivez-nous sur Facebook</a>
+			<a href="//facebook.com/groups/933140253754180/">Suivez-nous sur Facebook</a>
+			<a href="About">Notre but</a>
 		</p>
 
 	</div>
