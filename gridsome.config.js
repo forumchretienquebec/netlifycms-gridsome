@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Netlify CMS Gridsome starter template',
-  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.',
+  siteName: 'Forum Chrétien du Québec',
+  siteDescription: 'Le Forum Chrétien Du Québec est un espace de réflexions et d\'échanges au sujet de thèmes existentiels et contemporains dans une perspective chrétienne.',
 
   templates: {
     Post: '/:title',
