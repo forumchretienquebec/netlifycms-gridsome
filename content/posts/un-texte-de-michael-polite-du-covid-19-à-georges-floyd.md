@@ -5,13 +5,12 @@ published: true
 tags:
   - Lu pour vous...
 description: >-
-  Un texte de Michael Polite, "Du Covid 19 à Georges Floyd"
+  *La finalisation de la traduction française par Benjamin Joseph ne sert qu’à
+  des strictes fins de partage dans le groupe privé **« Forum Chrétien du
+  Québec** ».*
 
 
-  Bonne lecture
-
-
-  *La finalisation de la traduction française par Benjamin Joseph ne sert qu’à des strictes fins de partage dans le groupe privé **« Forum Chrétien du Québec** ».*
+  *Bonne Lecture*
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
