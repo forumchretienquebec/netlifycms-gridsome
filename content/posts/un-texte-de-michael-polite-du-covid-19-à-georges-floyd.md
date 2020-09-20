@@ -3,7 +3,6 @@ title: Un texte de Michael Polite, "Du Covid 19 à Georges Floyd"
 date: 2020-06-12T21:30:57.274Z
 published: true
 tags:
-  - tag
   - Lu pour vous...
 description: >-
   Un texte de Michael Polite, "Du Covid 19 à Georges Floyd"
