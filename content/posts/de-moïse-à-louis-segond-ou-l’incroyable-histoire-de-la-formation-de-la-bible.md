@@ -1,9 +1,8 @@
 ---
 title: De Moïse à Louis Segond, ou l’incroyable histoire de la formation de la Bible
-date: 2020-09-21T00:48:39.781Z
+date: 2020-05-23T21:30:39.781Z
 published: true
-tags:
-  - tag
+tags: []
 description: |-
   <!--StartFragment-->
 
@@ -11,4 +10,4 @@ description: |-
 
   <!--EndFragment-->
 ---
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/oxKGNCGvjtU&fbclid/0.jpg)](http://www.youtube.com/watch?v=oxKGNCGvjtU&fbclid "De Moïse à Louis Segond")
+[![](http://img.youtube.com/vi/oxKGNCGvjtU/0.jpg)](http://www.youtube.com/watch?v=oxKGNCGvjtU "De Moïse à Louis Segond, ou l’incroyable histoire de la formation de la Bible")
