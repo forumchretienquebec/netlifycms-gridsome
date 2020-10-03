@@ -1,6 +1,6 @@
 ---
 title: What is worldview?
-date: 2020-10-03T19:40:07.408Z
+date: 2020-07-15T19:40:07.408Z
 published: true
 tags:
   - worldview
