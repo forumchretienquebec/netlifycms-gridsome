@@ -6,16 +6,7 @@ tags:
   - tag
   - Retour Jésus bientot
   - "Trop tard "
-description: |-
-  
-
-  **Il est trop tard pour que Jésus revienne bientôt**
-
-  **Loren Seibold**
-
-
-
-  « Il est périlleux de vivre au-delà de la fin de son mythe! » -Anne Carson
+description: « Il est périlleux de vivre au-delà de la fin de son mythe! » -Anne Carson
 ---
 
 
